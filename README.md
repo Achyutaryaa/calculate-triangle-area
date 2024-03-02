@@ -1,1 +1,1 @@
-# calculate-traingle-area
+# calculate-triangle-area
