@@ -1,1 +1,1 @@
-# calculate-tringle-area
+# calculate-traingle-area
